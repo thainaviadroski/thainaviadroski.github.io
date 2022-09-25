@@ -1,20 +1,26 @@
 [
     {
-        "id": 1,
-        "title": "Ola",
-        "discription": "",
-        "link": ""
+        "title": "Curso em Videos",
+        "imagem": "https://yt3.ggpht.com/ytc/AMLnZu9SFJaGUnZnhHBfmnrSQ_5IZObGBhia1VSMVdpTEg=s88-c-k-c0x00ffffff-no-rj",
+        "discription": "Cursos em vídeo-aulas totalmente gratuitos, criados pelo Professor Gustavo Guanabara.",
+        "link": "https://www.youtube.com/cursoemvideo"
     },
     {
-        "id": 2,
-        "title": "World",
-        "discription": "",
-        "link": ""
+        "title": "Node Studio Treinamentos",
+        "imagem": "https://yt3.ggpht.com/ytc/AMLnZu9XzpQTkctUTwI0uqC-pFtH3YveElImgWu-mbsi=s88-c-k-c0x00ffffff-no-rj",
+        "discription": "Cursos Completos de Desenvolvimento Web (HTML5, CSS3, Materialize CSS, Javascript, PHP, Laravel, MYSQL, Vue e Quasar). Cursos online 100% em vídeo aulas, com suporte especializado e certificado!",
+        "link": "https://www.youtube.com/c/NodeStudioTreinamentos/about"
     },
     {
-        "id": 3,
-        "title": "Project",
-        "discription": "",
-        "link": ""
+        "title": "DevDojo",
+        "imagem": "https://yt3.ggpht.com/ytc/AMLnZu80uCPVzFFElk5dDtwUsxlT1Oh3yKmMHpVn_2Yn=s88-c-k-c0x00ffffff-no-rj",
+        "discription": "Curso de desenvolvimento Java e Spring",
+        "link": "https://www.youtube.com/c/DevDojoBrasil/about"
+    },
+    {
+        "title": "Bóson Treinamentos",
+        "imagem": "https://yt3.ggpht.com/ytc/AMLnZu85nVt84lrZxAcWxNcCb7ryr5d4aCMQOM13cINc=s88-c-k-c0x00ffffff-no-rj",
+        "discription": "Fábio dos Reis e a Bóson Treinamentos em Tecnologia criam cursos em vídeo de forma gratuita, com o intuito de disseminar conhecimento para o maior número de pessoas possível, com qualidade e facilidade de acesso. Nossos cursos incluem, entre outros: Dicas de Carreira em TI, Lógica de Programação, Bancos de Dados SQL Server, MySQL e PostgreSQL, Windows Server 2012, Microsoft Excel, Segurança e Criptografia, Redes de Computadores, Hardware, Arduino e Sistemas Embarcados, Eletrônica, Virtualização e Cloud Computing, Matemática para Computação, Programação em várias linguagens, como C, PHP, Java e Python, e diversas distribuições Linux, como Ubuntu, Red Hat e Fedora, além de Shell Scripting, Mac OS X e muito mais.",
+        "link": "https://www.youtube.com/c/bosontreinamentos"
     }
 ]
